@@ -5,7 +5,7 @@ Steps to run the program:
 
 TO rum the SQL server Download XAMPP software from the given link :https://sourceforge.net/projects/xampp/
 
-OPEN the Software and rum the APACHE AND SQL SERVERS
+OPEN the Software and run the APACHE AND SQL SERVERS
 
 GO TO XAMPP folder where Downloaded in your system 
 
@@ -17,4 +17,4 @@ OPEN the Admin Page of MYSQL from XAMPP SERVER
 
 UPLOAD your database file there 
 
-now type URL on your Browser localhost/ name of your folder where all programe files are saved in htdocs folder of yours
+FINAL Step: Type URL on your Browser localhost/ name of your folder where all programe files are saved in htdocs folder of yours
